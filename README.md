@@ -1,1 +1,2 @@
 # MCOPMUSIC
+此库专用于GCCMC服务器OP歌曲
